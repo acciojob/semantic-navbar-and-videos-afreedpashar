@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+.navbar li{
+	float :left;
+	list-style:none;
+	margin:5px;
+}
+
+.navbar li a{
+	text-decoration:none;
+}
+
+h1{
+	
+}
